@@ -7,7 +7,7 @@
 
 - **Philosophy**
     - [The Art of War by Sun Tzu][artofwar]
-    - [ThePower of Your Subconscious Mind][powerofsubmind]
+    - [The Power of Your Subconscious Mind][powerofsubmind]
 
 
 
