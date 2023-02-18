@@ -24,4 +24,4 @@
 [artofwar]: /pdfs/Philosophy/The%20Art%20of%20War%20by%20Sun%20Tzu.pdf
 [introtoalgos]: /pdfs/Computer%20Science/Introduction%20to%20Algorithms.pdf
 [powerofsubmind]: /pdfs/Philosophy/ThePowerOfYourSubconsciousMind-JosephMurphy.pdf
-[algosjava]: (pdfs/ComputerScience/Algorithms.pdf)
+[algosjava]: /pdfs/Computer%20Science/Algorithms.pdf
