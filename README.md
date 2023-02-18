@@ -3,6 +3,7 @@
 - **Computer Science**
     - [Introduction to Algorithms][introtoalgos]
     - [Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People][grokking]
+    - [Algorithms][algosjava]
 
 - **Philosophy**
     - [The Art of War by Sun Tzu][artofwar]
@@ -23,3 +24,4 @@
 [artofwar]: /pdfs/Philosophy/The%20Art%20of%20War%20by%20Sun%20Tzu.pdf
 [introtoalgos]: /pdfs/Computer%20Science/Introduction%20to%20Algorithms.pdf
 [powerofsubmind]: /pdfs/Philosophy/ThePowerOfYourSubconsciousMind-JosephMurphy.pdf
+[algosjava]: (pdfs/ComputerScience/Algorithms.pdf)
