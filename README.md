@@ -4,6 +4,7 @@
     - [Introduction to Algorithms][introtoalgos]
     - [Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People][grokking]
     - [Algorithms][algosjava]
+    - [Clean Code][CC]
 
 - **Philosophy**
     - [The Art of War by Sun Tzu][artofwar]
@@ -27,3 +28,4 @@
 [powerofsubmind]: /pdfs/Philosophy/ThePowerOfYourSubconsciousMind-JosephMurphy.pdf
 [algosjava]: /pdfs/Computer%20Science/Algorithms.pdf
 [besuper]: /pdfs/Philosophy/Becoming%20Supernatural.pdf
+[CC]: /pdfs/Computer%20Science/Clean%20Code.pdf
