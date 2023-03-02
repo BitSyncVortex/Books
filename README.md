@@ -5,12 +5,12 @@
     - [Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People][grokking]
     - [Algorithms][algosjava]
     - [Clean Code][CC]
+    - [Computer Science Distilled][CSD]
 
 - **Philosophy**
     - [The Art of War by Sun Tzu][artofwar]
     - [The Power of Your Subconscious Mind][powerofsubmind]
-    - [Becoming Supernatural][besuper]
-
+   
 
 
 <!-- 
@@ -27,5 +27,5 @@
 [introtoalgos]: /pdfs/Computer%20Science/Introduction%20to%20Algorithms.pdf
 [powerofsubmind]: /pdfs/Philosophy/ThePowerOfYourSubconsciousMind-JosephMurphy.pdf
 [algosjava]: /pdfs/Computer%20Science/Algorithms.pdf
-[besuper]: /pdfs/Philosophy/Becoming%20Supernatural.pdf
+[CSD]: /pdfs/Computer%20Science/Computer%20Science%20Distilled.pdf
 [CC]: /pdfs/Computer%20Science/Clean%20Code.pdf
