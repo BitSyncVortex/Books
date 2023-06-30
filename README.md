@@ -12,10 +12,10 @@
     - [The Power of Your Subconscious Mind][powerofsubmind]
    
 <!-- LINKS -->
-[grokking]: /pdfs/Computer%20Science/Grokking%20Algorithms-%20An%20Illustrated%20Guide%20for%20Programmers%20and%20Other%20Curious%20People.pdf
-[artofwar]: /pdfs/Philosophy/The%20Art%20of%20War%20by%20Sun%20Tzu.pdf
-[introtoalgos]: /pdfs/Computer%20Science/Introduction%20to%20Algorithms.pdf
+[grokking]: /pdfs/ComputerScience/GrokkingAlgorithms-AnIllustratedGuideforProgrammersandOtherCuriousPeople.pdf
+[artofwar]: /pdfs/Philosophy/TheArtofWarbySunTzu.pdf
+[introtoalgos]: /pdfs/ComputerScience/IntroductiontoAlgorithms.pdf
 [powerofsubmind]: /pdfs/Philosophy/ThePowerOfYourSubconsciousMind-JosephMurphy.pdf
-[algosjava]: /pdfs/Computer%20Science/Algorithms.pdf
-[CSD]: /pdfs/Computer%20Science/Computer%20Science%20Distilled.pdf
-[CC]: /pdfs/Computer%20Science/Clean%20Code.pdf
+[algosjava]: /pdfs/ComputerScience/Algorithms.pdf
+[CSD]: /pdfs/ComputerScience/ComputerScienceDistilled.pdf
+[CC]: /pdfs/ComputerScience/CleanCode.pdf
